@@ -1,4 +1,15 @@
-venv/
-*.pyc
 __pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+*.log
+.coverage
+htmlcov/
 dist/
+build/
